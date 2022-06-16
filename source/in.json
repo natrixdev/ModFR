@@ -3,5 +3,8 @@
   "prefix": "_",
   "owner": "natrix",
   "bot-version": "$getBotVersion(from:bot.py)",
-  "*": "emojis.ext
+  "*": "emojis.ext"
+},
+{
+  "all": "modules_mod_fr"
 }
