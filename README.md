@@ -1,6 +1,5 @@
-![one-piece-luffy](https://user-images.githubusercontent.com/88579983/174057819-30badfdc-97c7-4540-b58b-642a2bcb7fc9.gif)
-
 # [🛠️ ModFR - Bot discord de modération 🤖](https://discord.com/oauth2/authorize?client_id=986578650797318194&scope=bot%20applications.commands&permissions=2146958847)
+![one-piece-luffy](https://user-images.githubusercontent.com/88579983/174057819-30badfdc-97c7-4540-b58b-642a2bcb7fc9.gif)
 
 ## [Invite Me 🔗](https://discord.com/oauth2/authorize?client_id=986578650797318194&scope=bot%20applications.commands&permissions=2146958847) [Support Server 📩](https://discord.gg/xUHmhZCc8F) [Developer 💻](https://github.com/natrixdev)
 
