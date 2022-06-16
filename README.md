@@ -38,7 +38,7 @@ _set-captcha-role <@role> (Défini le rôle attribué aux membres après vérifi
 
 _captcha (Génère un code de vérification pour le membre)
 
-_verify <code de captcha> (Vérifie si le code correspond à celui de `_captcha` & attribut le rôle après vérification)
+_verify <code de captcha> (Vérifie si le code correspond à celui de _captcha & attribut le rôle après vérification)
  
  > ### Utilitaire 🛠️:
 _clear <nombre de messages> (Supprime les messages)
