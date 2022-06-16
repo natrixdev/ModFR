@@ -38,7 +38,7 @@ _set-captcha-role <@role> (Défini le rôle attribué aux membres après vérifi
 
 _captcha (Génère un code de vérification pour le membre)
 
-_verify <code de captcha> (Vérifie si le code correspond à celui de _captcha & attribut le rôle après vérification)
+_verify <code de captcha> (Vérifie si le code correspond à celui de captcha & attribut le rôle après vérification)
  
  > ### Utilitaire 🛠️:
 _clear <nombre de messages> (Supprime les messages)
@@ -61,3 +61,6 @@ _welcome <#salon> (Définit le salon d'accueil des membres)
  > #### Links 
  [Invite Bot](https://discord.com/oauth2/authorize?client_id=986578650797318194&scope=bot%20applications.commands&permissions=2146958847)
  [Support Server](https://discord.gg/xUHmhZCc8F)
+
+ # Preview 
+![image](https://user-images.githubusercontent.com/88579983/174055459-97b69ab6-d6a0-4a75-93a0-29295caea1ec.png)
