@@ -1,0 +1,7 @@
+{
+  "token": "token here",
+  "prefix": "_",
+  "owner": "natrix",
+  "bot-version": "$getBotVersion(from:bot.py)",
+  "*": "emojis.ext
+}
