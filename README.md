@@ -1,4 +1,4 @@
-# [ModFR - Bot discord de modération :flag_fr:](https://discord.com/oauth2/authorize?client_id=986578650797318194&scope=bot%20applications.commands&permissions=2146958847)
+# [🛠️ ModFR - Bot discord de modération 🤖](https://discord.com/oauth2/authorize?client_id=986578650797318194&scope=bot%20applications.commands&permissions=2146958847)
 
 > ## Documentation: 📜
 **Inormations 📚:**
@@ -39,7 +39,7 @@ _set-captcha-role <@role> (Défini le rôle attribué aux membres après vérifi
 _captcha (Génère un code de vérification pour le membre)
 
 _verify <code de captcha> (Vérifie si le code correspond à celui de `_captcha` & attribut le rôle après vérification)
-  
+ 
  > ### Utilitaire 🛠️:
 _clear <nombre de messages> (Supprime les messages)
 
@@ -61,4 +61,3 @@ _welcome <#salon> (Définit le salon d'accueil des membres)
  > #### Links 
  [Invite Bot](https://discord.com/oauth2/authorize?client_id=986578650797318194&scope=bot%20applications.commands&permissions=2146958847)
  [Support Server](https://discord.gg/xUHmhZCc8F)
- 
