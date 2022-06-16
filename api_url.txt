@@ -1,0 +1,14 @@
+How to get a ModFR Api link ? 
+
+1 - Api ? 
+Yes, I made an private Api who allows you to create a dashboard & change welcome image
+
+2 - Link ? 
+This api is private, you can get an url with the following method:
+https://apis.com/mod_fr/server_uid/bot?/keyrequired/id?"YOUR SERVER ID HERE"/allowacces?true
+
+    3 - Dashboard 
+      Allows you to manage your server without connection and same if your are not on discord app !
+      
+    4 - Welcome Images 
+      You can change welcome images banner (I created a repo with over 20 banners)
