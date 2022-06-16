@@ -1,5 +1,7 @@
 # [🛠️ ModFR - Bot discord de modération 🤖](https://discord.com/oauth2/authorize?client_id=986578650797318194&scope=bot%20applications.commands&permissions=2146958847)
 
+[Invite Me 🔗](https://discord.com/oauth2/authorize?client_id=986578650797318194&scope=bot%20applications.commands&permissions=2146958847) [Support Server 📩](https://discord.gg/xUHmhZCc8F) [Developer 💻](https://github.com/natrixdev)
+
 > ## Documentation: 📜
 **Inormations 📚:**
 
@@ -64,3 +66,6 @@ _welcome <#salon> (Définit le salon d'accueil des membres)
 
  # Preview 
 ![image](https://user-images.githubusercontent.com/88579983/174055459-97b69ab6-d6a0-4a75-93a0-29295caea1ec.png)
+
+ 
+ Bot par [🛡️natrix🛡️](https://github.com/natrixdev)
